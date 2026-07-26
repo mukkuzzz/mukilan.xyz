@@ -1,7 +1,6 @@
 baseURL = "https://mukilan.xyz/"
 languageCode = "en-us"
 title = "Mukilan.xyz"
-theme = ""
 paginate = 8
 
 [params]
