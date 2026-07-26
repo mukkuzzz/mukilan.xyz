@@ -1,0 +1,27 @@
+{{ define "title" }}{{ .Site.Title }}{{ end }}
+{{ define "main" }}
+<section class="link-grid">
+
+  <div class="link-col">
+    <h2 class="section-label">// writing</h2>
+    <ul class="links">
+      {{ range first 6 (where .Site.RegularPages "Type" "posts") }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="entry-date">{{ .Date.Format "2006-01-02" }}</span></li>
+      {{ end }}
+    </ul>
+    <a class="more" href="{{ "/posts/" | relURL }}">all posts &rarr;</a>
+  </div>
+
+  {{ range .Params.sections }}
+  <div class="link-col">
+    <h2 class="section-label">// {{ .heading }}</h2>
+    <ul class="links">
+      {{ range .links }}
+      <li><a href="{{ .url }}">{{ .name }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+
+</section>
+{{ end }}

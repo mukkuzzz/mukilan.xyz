@@ -1,0 +1,6 @@
+{{ if or .PrevInSection .NextInSection }}
+<div class="nextprev">
+  {{ with .PrevInSection }}<a class="prevart" href="{{ .RelPermalink }}"><span class="np-label">&larr; previous</span><br>{{ .Title }}</a>{{ end }}
+  {{ with .NextInSection }}<a class="nextart" href="{{ .RelPermalink }}"><span class="np-label">next &rarr;</span><br>{{ .Title }}</a>{{ end }}
+</div>
+{{ end }}

@@ -1,0 +1,7 @@
+{{ $tags := .Params.tags }}
+{{ if gt (len $tags) 0 }}
+<div class="taglist">
+  <span class="taglist-label">tags:</span>
+  {{ range $i, $t := $tags }}{{ if $i }} &middot; {{ end }}<a href="{{ printf "/tags/%s" ($t | urlize) | relURL }}">{{ $t }}</a>{{ end }}
+</div>
+{{ end }}

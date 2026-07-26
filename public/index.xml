@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Mukilan.xyz</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on Mukilan.xyz</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 26 Jul 2026 13:01:11 +0530</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>WhyHugo</title>
+				<link>http://localhost:1313/posts/whyhugo/</link>
+				<pubDate>Sun, 26 Jul 2026 13:01:11 +0530</pubDate>
+				<guid>http://localhost:1313/posts/whyhugo/</guid>
+				<description>&lt;p&gt;It&amp;rsquo;s simply better. I can&amp;rsquo;t be bothered to fiddle with this stuff everytime.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>about</title>
+				<link>http://localhost:1313/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/about/</guid>
+				<description>&lt;p&gt;I&amp;rsquo;m an engineering student and, depending on the week, a founder, a&#xA;tinkerer, or someone who&amp;rsquo;s fallen down a Dostoevsky-shaped hole again.&lt;/p&gt;&#xA;&lt;p&gt;I run a small consulting outfit that gets local businesses online, and I&#xA;spend the rest of my time on power converter theory, Godot, and whatever&#xA;factory game currently has my attention.&lt;/p&gt;&#xA;&lt;p&gt;This site is static, has no JavaScript, and doesn&amp;rsquo;t track you. That&amp;rsquo;s not&#xA;an accident.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

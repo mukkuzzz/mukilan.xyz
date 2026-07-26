@@ -1,0 +1,12 @@
+{{ define "main" }}
+<article class="post">
+  {{ if not .Date.IsZero }}
+  <div class="post-meta">
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+  </div>
+  {{ end }}
+  <div class="post-body">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

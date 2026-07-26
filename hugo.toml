@@ -1,0 +1,27 @@
+baseURL = "https://mukilan.xyz/"
+languageCode = "en-us"
+title = "Mukilan.xyz"
+theme = ""
+paginate = 8
+
+[params]
+  description = "Hi there fellow traveller!"
+  author = "Mukilan"
+
+[[menu.main]]
+  name = "home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "posts"
+  url = "/posts/"
+  weight = 2
+
+[[menu.main]]
+  name = "about"
+  url = "/about/"
+  weight = 3
+
+[markup.goldmark.renderer]
+  unsafe = true
