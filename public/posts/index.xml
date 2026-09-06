@@ -10,15 +10,22 @@
 		
 		
 		
-			<lastBuildDate>Sun, 26 Jul 2026 13:01:11 +0530</lastBuildDate>
+			<lastBuildDate>Mon, 31 Aug 2026 23:17:10 +0530</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>WhyHugo</title>
-				<link>http://localhost:1313/posts/whyhugo/</link>
-				<pubDate>Sun, 26 Jul 2026 13:01:11 +0530</pubDate>
-				<guid>http://localhost:1313/posts/whyhugo/</guid>
-				<description>&lt;p&gt;It&amp;rsquo;s simply better. I can&amp;rsquo;t be bothered to fiddle with this stuff everytime.&lt;/p&gt;</description>
+				<title>Why Bharat needs Indra more than Buddha?</title>
+				<link>http://localhost:1313/posts/why-bharat-needs-indra-more-than-gautama-/</link>
+				<pubDate>Mon, 31 Aug 2026 23:17:10 +0530</pubDate>
+				<guid>http://localhost:1313/posts/why-bharat-needs-indra-more-than-gautama-/</guid>
+				<description>&lt;p&gt;Indra is the most invoked god of the RigVeda. He is described as a soma-drinking god who slays the dragons that hold back the waters behind stone walls. He is the lord of the heavens, a brave warrior king, and a god of strength and victory.&lt;/p&gt;&#xA;&lt;p&gt;The way you worship him is through the fire of the yajna. He requires sacrifice, and in return you ask something of him: victory, rain, cattle, prosperity, protection. I seem to notice something with this type of worldview. It does not treat desire as a weakness to be overcome. It assumes that there are things worth wanting, and that obtaining them requires sacrifice, courage, and strength. Courage was almost like the highest virtue for these people.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>WhyNeeds Indra More Than Buddha</title>
+				<link>http://localhost:1313/posts/test/</link>
+				<pubDate>Mon, 31 Aug 2026 23:17:10 +0530</pubDate>
+				<guid>http://localhost:1313/posts/test/</guid>
+				<description>&lt;p&gt;Indra is the most invoked god of the Rigveda. He is described as a soma-drinking god who slays the dragons that hold back the waters behind stone walls. He is the lord of the heavens, a brave warrior king, and a god of strength and victory.&lt;/p&gt;&#xA;&lt;p&gt;The way you worship him is through the fire of the yajna. He requires sacrifice, and in return you ask something of him: victory, rain, cattle, prosperity, protection. I seem to notice something with this type of worldview. It does not treat desire as a weakness to be overcome. It assumes that there are things worth wanting, and that obtaining them requires sacrifice, courage, and strength. Courage was almost like the highest virtue for these people.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
