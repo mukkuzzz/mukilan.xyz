@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://mukilan.xyz/</loc>
     <lastmod>2026-08-31T23:17:10+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://mukilan.xyz/posts/</loc>
     <lastmod>2026-08-31T23:17:10+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/why-bharat-needs-indra-more-than-gautama-/</loc>
+    <loc>https://mukilan.xyz/posts/why-bharat-needs-indra-more-than-gautama-/</loc>
     <lastmod>2026-08-31T23:17:10+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://mukilan.xyz/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://mukilan.xyz/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://mukilan.xyz/tags/</loc>
   </url>
 </urlset>
