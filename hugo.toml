@@ -1,7 +1,10 @@
 baseURL = "https://mukilan.xyz/"
 languageCode = "en-us"
 title = "Mukilan.xyz"
+<<<<<<< HEAD
 publishDir = "docs"
+=======
+>>>>>>> ac9bfd88c98e3a85b0f06a9bdfa025ba35e21356
 
 [params]
   description = "Hi there fellow traveller!"
