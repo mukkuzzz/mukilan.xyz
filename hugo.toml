@@ -1,8 +1,8 @@
 baseURL = "https://mukilan.xyz/"
 languageCode = "en-us"
 title = "Mukilan.xyz"
-publishDir = "docs"
 relativeURLs = true
+
 [params]
   description = "Hi there fellow traveller!"
   author = "Mukilan"
