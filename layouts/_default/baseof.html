@@ -13,7 +13,7 @@
   <main class="wrap{{ if .IsHome }} wrap-home{{ end }}">
     <a class="site-link" href="{{ .Site.Home.RelPermalink }}">
       <header class="site-head">
-        <h1 class="brand">{{ block "title" . }}{{ .Title }}{{ end }}</h1>
+	      <h1 class="brand">{{block "title".}}{{ .Title }}{{ end }}</h1> 
         {{ with .Param "subtitle" }}<p class="hero-tagline">{{ . }}</p>{{ end }}
       </header>
     </a>

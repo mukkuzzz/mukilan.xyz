@@ -7,17 +7,17 @@ relativeURLs = true
   description = "Hi there fellow traveller!"
   author = "Mukilan"
 
-[[menu.main]]
+[[menus.main]]
   name = "home"
   url = "/"
   weight = 1
 
-[[menu.main]]
+[[menus.main]]
   name = "posts"
   url = "/posts/"
   weight = 2
 
-[[menu.main]]
+[[menus.main]]
   name = "about"
   url = "/about/"
   weight = 3
