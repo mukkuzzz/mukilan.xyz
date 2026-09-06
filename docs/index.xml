@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Mukilan.xyz</title>
-		<link>https://mukilan.xyz/</link>
+		<link>http://localhost:1313/</link>
 		<description>Recent content on Mukilan.xyz</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Mon, 31 Aug 2026 23:17:10 +0530</lastBuildDate>
 		
-			<atom:link href="https://mukilan.xyz/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Why Bharat Needs Indra More Than Buddha</title>
-				<link>https://mukilan.xyz/posts/why-bharat-needs-indra-more-than-gautama-/</link>
+				<link>http://localhost:1313/posts/why-bharat-needs-indra-more-than-gautama-/</link>
 				<pubDate>Mon, 31 Aug 2026 23:17:10 +0530</pubDate>
-				<guid>https://mukilan.xyz/posts/why-bharat-needs-indra-more-than-gautama-/</guid>
+				<guid>http://localhost:1313/posts/why-bharat-needs-indra-more-than-gautama-/</guid>
 				<description>&lt;p&gt;Indra is the most invoked god of the Rigveda. He is described as a soma-drinking god who slays the dragons that hold back the waters behind stone walls. He is the lord of the heavens, a brave warrior king, and a god of strength and victory.&lt;/p&gt;&#xA;&lt;p&gt;The way you worship him is through the fire of the yajna. He requires sacrifice, and in return you ask something of him: victory, rain, cattle, prosperity, protection. I seem to notice something with this type of worldview. It does not treat desire as a weakness to be overcome. It assumes that there are things worth wanting, and that obtaining them requires sacrifice, courage, and strength. Courage was almost like the highest virtue for these people.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>about</title>
-				<link>https://mukilan.xyz/about/</link>
+				<link>http://localhost:1313/about/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://mukilan.xyz/about/</guid>
+				<guid>http://localhost:1313/about/</guid>
 				<description>&lt;p&gt;UNDER CONSTRUCTION!&lt;/p&gt;</description>
 			</item>
 	</channel>
