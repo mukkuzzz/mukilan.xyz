@@ -1,13 +1,12 @@
 ---
-title: "mukilan.log"
+title: "Mukilan.xyz"
 subtitle: "power electronics, systems, and whatever's left over"
 sections:
   - heading: "projects"
-    links
   - heading: "elsewhere"
     links:
       - name: "github"
-        url: "https://github.com/yourusername"
+        url: "https://github.com/mukkuzzz"
       - name: "email"
         url: "mailto:mukilnikil7@gmail.com"
       - name: "rss"
