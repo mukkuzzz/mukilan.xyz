@@ -1,16 +1,15 @@
 ---
-title: "Mukilan.xyz"
-subtitle: "Hi there fellow traveller!"
+title: "mukilan.log"
+subtitle: "power electronics, systems, and whatever's left over"
 sections:
   - heading: "projects"
-    links:
-
+    links
   - heading: "elsewhere"
     links:
       - name: "github"
-        url: "https://github.com/mukkuzzz"
+        url: "https://github.com/yourusername"
       - name: "email"
-        url: "mailto:you@example.com"
+        url: "mailto:mukilnikil7@gmail.com"
       - name: "rss"
         url: "/index.xml"
 ---
